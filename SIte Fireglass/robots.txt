@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <url>
+        <loc>https://fireglass-rs.com.br/acessorios.html</loc>
+    </url>
+    <url>
+        <loc>https://fireglass-rs.com.br/contato.html</loc>
+    </url>
+    <url>
+        <loc>https://fireglass-rs.com.br/empresa.html</loc>
+    </url>
+    <url>
+        <loc>https://fireglass-rs.com.br/index.html</loc>
+    </url>
+    <url>
+        <loc>https://fireglass-rs.com.br/orcamento.html</loc>
+    </url>
+    <url>
+        <loc>https://fireglass-rs.com.br/portchurras.html</loc>
+    </url>
+    <url>
+        <loc>https://fireglass-rs.com.br/portfolio.html</loc>
+    </url>
+    <url>
+        <loc>https://fireglass-rs.com.br/portlar.html</loc>
+    </url>
+    <url>
+        <loc>https://fireglass-rs.com.br/produtos.html</loc>
+    </url>
+</urlset>
